@@ -1,0 +1,7 @@
+# 檔案名稱 .gitignore
+
+# 忽略所有測試用 .txt 檔
+*.txt
+
+# 忽略所有測試用 Wireshark Capture File
+*.pcapng
